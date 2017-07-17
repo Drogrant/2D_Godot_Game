@@ -1,2 +1,4 @@
 # 2D_Godot_Game
-Basic 2D Game being made in Godot.
+---- Basic 2D Game being made in Godot ----
+
+I added some basic movement just using the arrow keys. The input is pretty simple, I will improve it later.
